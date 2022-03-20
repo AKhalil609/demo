@@ -1,6 +1,6 @@
 {
-   "items":
-      {
+   "items":[
+            {
          "slug":"Dickens-Franecki",
          "name":"Dickens - Franecki",
          "address":"12158 Randall Port",
@@ -10,4 +10,6 @@
          "account":31010023,
          "contact":"Lonzo Stracke"
       }
+   ]
+
 }
