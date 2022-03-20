@@ -1,6 +1,6 @@
 {
    "companines":
-            {
+   [{
          "slug":"Dickens-Franecki",
          "name":"Dickens - Franecki",
          "address":"12158 Randall Port",
@@ -9,6 +9,6 @@
          "zip":"74529",
          "account":31010023,
          "contact":"Lonzo Stracke"
-      }
+      }]
 
 }
